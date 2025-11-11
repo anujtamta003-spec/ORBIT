@@ -136,5 +136,4 @@ elif page == "AI Detective":
     st.markdown("---")
     st.info("⚖️ Note: AI outputs are for research and analytical insight — not legal conclusions.")
 
-# --- FOOTER ---
-st.markdown("<hr><center>© 2025 ORBIT Intelligence - Built with ❤️ using Streamlit, Pydeck, and Open Data</center>", unsafe_allow_html=True)
+st.markdown("<br><br>", unsafe_allow_html=True)

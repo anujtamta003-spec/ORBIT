@@ -5,3 +5,10 @@ openai
 faiss-cpu
 python-dotenv
 plotly
+streamlit
+pydeck
+pandas
+plotly
+transformers
+requests
+openai

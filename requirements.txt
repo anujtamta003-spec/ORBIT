@@ -12,3 +12,4 @@ plotly
 transformers
 requests
 openai
+torch
